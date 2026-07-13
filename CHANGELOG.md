@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Updated README.md to feature a high-quality centered demonstration GIF.
+
 ## 0.0.2
 
 * Updated README.md video to GIF format for proper rendering on pub.dev and GitHub.
