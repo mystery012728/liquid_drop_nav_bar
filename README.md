@@ -2,7 +2,7 @@
 
 A highly customizable Flutter bottom navigation bar featuring a smooth, organic liquid drop/metaball transition animation.
 
-<video src="https://github.com/mystery012728/liquid_drop_nav_bar/raw/main/assets/DemoLiquideDropNavBar.mp4" width="100%" controls muted autoplay loop></video>
+![Liquid Drop Navigation Bar Demo](https://raw.githubusercontent.com/mystery012728/liquid_drop_nav_bar/main/assets/DemoLiquideDropNavBar.gif)
 
 ## Features
 
