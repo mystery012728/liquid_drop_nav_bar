@@ -1,0 +1,19 @@
+name: liquid_drop_nav_bar_example
+description: An example project demonstrating the liquid_drop_nav_bar package.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.12.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  liquid_drop_nav_bar:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
